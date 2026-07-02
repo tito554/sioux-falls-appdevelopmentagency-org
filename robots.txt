@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sioux-falls.appdevelopmentagency.org/sitemap.xml
